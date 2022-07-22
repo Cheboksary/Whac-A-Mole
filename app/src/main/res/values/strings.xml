@@ -8,5 +8,7 @@
     <string name="new_record">New record!</string>
     <string name="play_again">Play again</string>
     <string name="menu">Menu</string>
+    <string name="timer">0:</string>
+    <string name="_0">0</string>
 
 </resources>

@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/drawable/hole_ring.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/layout/fragment_end.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/layout/fragment_game.xml" value="0.22" />
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/layout/fragment_start.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/Nadezhda/AndroidStudioProjects/Whac-A-Mole/app/src/main/res/layout/game_field.xml" value="0.22" />
         <entry key="..\:/Users/exc24/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/activity_main.xml" value="0.34556159420289856" />
         <entry key="..\:/Users/exc24/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/fragment_end.xml" value="0.3453125" />
         <entry key="..\:/Users/exc24/AndroidStudioProjects/WhacAMole/app/src/main/res/layout/fragment_game.xml" value="0.34556159420289856" />
